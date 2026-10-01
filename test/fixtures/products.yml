@@ -1,0 +1,13 @@
+one:
+  name: Product One
+  description: MyText
+  price: 25
+  category: one
+  active: true
+
+two:
+  name: Product Two
+  description: MyText
+  price: 30
+  category: two
+  active: false

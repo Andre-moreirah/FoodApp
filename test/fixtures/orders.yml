@@ -1,0 +1,11 @@
+one:
+  customer_email: user@example.com
+  fullfiled: false
+  total: 1
+  address: Rua A, 123
+
+two:
+  customer_email: another@example.com
+  fullfiled: true
+  total: 2
+  address: Rua B, 456
